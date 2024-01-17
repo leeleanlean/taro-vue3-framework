@@ -1,0 +1,17 @@
+.taro-image-core {
+  display: block;
+}
+
+.nut-button {
+  font-weight: 500;
+  border: none !important;
+  &.nut-button--normal {
+    font-size: 32rpx !important;
+    height: 96rpx !important;
+  }
+}
+
+// form
+.nut-form-item__body__tips {
+  font-size: 24rpx !important;
+}
